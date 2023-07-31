@@ -1,0 +1,1 @@
+{"uuid":"aa4279ad-335d-4750-9ddd-dcce127c06db","name":"nopCommerce.base.BaseTest.setUp","children":["41d2ef27-32aa-4aeb-8ac7-dcc2567ee812"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1690704424096,"stop":1690704425348}],"afters":[],"start":1690704424096,"stop":1690704425349}
